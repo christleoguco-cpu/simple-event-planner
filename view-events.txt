@@ -1,0 +1,21 @@
+FR-02: View Upcoming Events
+
+The user can view all upcoming events that have been created.
+
+Each upcoming event will display:
+
+Event Name
+Date
+Start Time
+End Time
+Location
+Organizer/Provider Name
+
+Example:
+
+Event Name: Women in Technology Workshop
+Date: October 10, 2026
+Start Time: 2:00 PM
+End Time: 5:00 PM
+Location: Red Deer, Alberta
+Organizer/Provider: Future Tech Organization

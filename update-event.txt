@@ -1,0 +1,16 @@
+FR-03: Update Event
+
+Purpose:
+Allow users to update the details of an existing event.
+
+Event details that can be updated:
+- Event name
+- Date
+- Time
+- Location
+
+Expected Behaviour:
+When a user selects an existing event, they can change the event details and save the changes.
+
+Acceptance Criteria:
+Given that an event already exists, when the user changes the event information and saves it, then the updated information should appear in the event list.

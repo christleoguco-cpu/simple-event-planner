@@ -1,8 +1,8 @@
 # Simple Event Planner
 
-## Project Purpose - Easy Event Planning
-The Simple Event Planner is a small application designed to help users organize and manage events. Users can create events, view upcoming events, update event information, and delete events they no longer need.
+## Project Purpose - Easy Event Organization
 
+The Simple Event Planner is a small application designed to help users organize and manage events.
 ## Functional Requirements
 - FR-01: Create Event
 - FR-02: View Events

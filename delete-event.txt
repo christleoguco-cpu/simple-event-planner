@@ -1,0 +1,10 @@
+FR-04: Delete Event
+
+Purpose:
+Allow users to delete an event they no longer need.
+
+Expected Behaviour:
+The user can select an existing event and choose to delete it.
+
+Acceptance Criteria:
+Given that an event exists, when the user selects the delete option and confirms the action, then the event should be removed from the event list.
